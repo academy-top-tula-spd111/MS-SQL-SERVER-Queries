@@ -1,0 +1,3 @@
+ALTER TABLE Teachers
+	ADD CONSTRAINT PK_Teachers PRIMARY KEY (id)
+GO
